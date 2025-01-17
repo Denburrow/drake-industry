@@ -1,2 +1,3 @@
 # drake-industry
-my site
+# welcome
+my site for all your Drake Industry needs!
