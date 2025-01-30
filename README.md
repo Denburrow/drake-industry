@@ -1,3 +1,8 @@
-# Drake-industry
-# Welcome
-My site for all your Drake Industry needs!
+<!DOCTYPE html>
+
+<html>
+<body>
+<h1>Drake Industrys</h1>
+
+</body>
+</html>
